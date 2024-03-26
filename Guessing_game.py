@@ -35,4 +35,4 @@ play_again = "yes"
 while play_again.lower() in ["yes", "y"]:
     player_name = intro()
     pick(player_name)
-    play_again = input("Do you want to play again? (yes/no): ")sra
+    play_again = input("Do you want to play again? (yes/no): ")
